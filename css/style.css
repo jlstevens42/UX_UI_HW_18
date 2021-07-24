@@ -1,0 +1,58 @@
+.navigation {
+    background-color:#383837;
+    width:100%;
+    position: sticky;
+    top:10px;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding:3px 10px 0px 10px;
+}
+.logo {
+    width: 10%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 85%;
+    padding: 1%;
+    text-align:right;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    vertical-align: top;
+    color:white;
+    font-family:arial,helvetica,sans-serif;
+}
+p {  
+    font-family:arial,helvetica,sans-serif;
+}
+.heroimg {
+    padding: 25px;
+}
+.content {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+footer {
+    background-color: #383837;
+    width: 100%;
+    position: bottom;
+}
+li {
+    padding: center;
+}
+.topmenu {
+    float:right;
+}
+html, body {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
